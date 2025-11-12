@@ -1,6 +1,6 @@
 ---
 slug: /
-title: Welcome to Wokwi!
+title: Welcome to Wokwie!
 ---
 
 import { LEDBullet } from '@site/src/components/LEDBullet'
